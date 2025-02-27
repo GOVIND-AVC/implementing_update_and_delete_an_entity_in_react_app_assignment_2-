@@ -1,0 +1,9 @@
+{
+  "doors": [
+    {
+      "id": "3",
+      "name": "Back Door-1",
+      "status": "closed"
+    }
+  ]
+}
