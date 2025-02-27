@@ -29,7 +29,6 @@ const logRequests = (req, res, next) => {
 
     next();
 };
-
 // Use the middleware for all routes
 app.use(logRequests);
 app.use(cors());
